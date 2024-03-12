@@ -3,6 +3,7 @@
 ## About
 
 This (unofficial) app acts as a webview wrapper for [chat.openai.com](https://chat.openai.com)
+Expect more additional features in revised branch from Ihype. Stay Hyped!
 
 
 <div align="center">
